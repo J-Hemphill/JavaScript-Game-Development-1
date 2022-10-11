@@ -28,10 +28,10 @@ Definition: A sprite sheet is an image that consists of several smaller images (
 
 Find sprite sheets here: https://bevouliin.com/
 
-1.) Sprite sheet for ravens.
+1.) Sprite sheet for ravens animation.
 ![image](https://user-images.githubusercontent.com/99753925/195156825-61a1e3b4-b632-44d2-afc4-085d18a90e3a.png)
 
-2.) Sprite sheet for explosion.
+2.) Sprite sheet for explosion animation.
 ![image](https://user-images.githubusercontent.com/99753925/195156945-09fc2349-a778-41ef-9f98-a08217d28954.png)
 
 3.) Image used for background.
