@@ -7,6 +7,8 @@ JavaScript Game Development For Beginners Course on Youtube.com. The
 goal of the game is to shoot as many ravens as possible before they
 reach the other side to end the game. My highest kill score was 42.
 
+JavaScript Game Development For Beginners Course: https://www.youtube.com/watch?v=GFO_txvwK_c
+
 Features:
 
 1.) Point with cursor to aim at ravens.
