@@ -1,7 +1,9 @@
 body {
     /*background: linear-gradient(125deg, red, green, blue);*/
-    background-image: url("images/forest.jpg");
+    background-image: url("images/fireSky.jpg");
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     width: 100vw;
     height: 100vh;
     overflow: hidden;
